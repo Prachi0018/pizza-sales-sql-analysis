@@ -1,14 +1,14 @@
- Pizza Sales Analysis Using SQL
+# 🍕 Pizza Sales Analysis Using SQL
 
- SQL data analysis project using MySQL to explore pizza sales, revenue, orders, and product performance.**
+**A SQL data analysis project using MySQL to explore pizza sales, revenue, orders, and product performance.**
 
- Project Overview
+##  Project Overview
 
 This project uses SQL to analyze pizza sales data and answer business questions about order trends, revenue, popular pizza types, and product performance.
 
 The goal is to turn raw sales data into useful insights that can support business decisions.
 
- Business Questions
+##  Business Questions
 
 - How many orders were placed?
 - What is the total revenue generated?
@@ -18,13 +18,13 @@ The goal is to turn raw sales data into useful insights that can support busines
 - What are the cumulative revenue trends over time?
 - Which pizza types contribute most to revenue?
 
- Tools & Technologies
+##  Tools & Technologies
 
 - MySQL
 - SQL
 - GitHub
 
- Project Structure
+##  Project Structure
 
 ```text
 pizza-sales-sql-analysis/
@@ -37,7 +37,7 @@ pizza-sales-sql-analysis/
 └── README.md
 ```
 
- SQL Concepts Used
+##  SQL Concepts Used
 
 - SELECT, WHERE and ORDER BY
 - Aggregate functions: SUM, COUNT and ROUND
@@ -48,7 +48,7 @@ pizza-sales-sql-analysis/
 - RANK()
 - Cumulative revenue analysis
 
- How to Run This Project
+## How to Run This Project
 
 1. Download or clone this repository.
 2. Open MySQL Workbench or another MySQL client.
@@ -57,17 +57,17 @@ pizza-sales-sql-analysis/
 5. Check the database name and table/column names.
 6. Execute the queries and review the results.
 
- Query Files
+## Query Files
 
 - [Basic SQL Queries](basic_queries.sql)
 - [Intermediate SQL Queries](intermediate_queries.sql)
 - [Advanced SQL Queries](advanced_queries.sql)
 
- Key Findings
+##  Key Findings
 
 Add your actual findings after running and verifying the queries. For example, include the most popular pizza size, highest-revenue category, and busiest ordering period, with the corresponding values.
 
- What I Learned
+##  What I Learned
 
 - Writing SQL queries to answer business questions
 - Joining related tables
@@ -75,7 +75,7 @@ Add your actual findings after running and verifying the queries. For example, i
 - Using window functions for ranking and cumulative analysis
 - Organizing and documenting a data analytics project
 
- Author
+##  Author
 
 **Prachi Bhuvad**
 
